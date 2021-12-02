@@ -1,0 +1,135 @@
+Agenda:
+
+-->Introduction to Cloud Computing
+What is Cloud Computing
+Cloud deployment models
+Cloud Service Models - IaaS SaaS & PaaS
+
+3 days
+-->Networking - VPC
+a. VPC (Virtual Private Cloud)
+b. Private & public subnets
+c. Calculating CIDR Blocks & Internet Gateways
+d. VPC wizards & Route Tables
+e. Elastic IPs & public IPs
+f. Securing VPC (Security groups & NACLs)
+g. VPC Peering Connection
+h. VPC Access Methods (VPN & Direct Connect)
+i. NAT instance & NAT Gateway
+
+2 days
+-->EC2 (Elastic Compute Cloud)
+a. EC2 Instances
+b. Amazon Machine Images (AMI)
+c. Taking Instance Backups
+d. Instance Resizing
+e. Instance Types Generations & Sizes
+f. On-Demand Instances
+g. Spot Requests
+h. Dedicated Hosts
+i. Scheduled Instances
+
+2 days
+-->EBS (Elastic Block Store)
+a. Volume Types
+b. General Purpose SSD
+c. Provisioned IOPS
+d. Magnetic, Cold HDD & Throughput Optimized HDD
+e. Creating Snapshots (Backups)
+h. Resizing Volumes
+
+1 days
+-->Elastic Load Balancer (ELB)
+a. Application Load Balancer
+b. Classic Load Balancer
+c. Network Load Balancer
+
+1 day
+-->Auto Scaling
+a. Auto Scaling Group
+b. Launch Configuration
+
+2 days
+-->IAM (Identity & Access Management)
+a. User & Service management
+b. Managing Passwords Policies
+c. Managing Roles
+d. Identity Providers
+e. Activating Multi-Factor Authentication
+f. Identity Federation
+g. Cross-Account Access
+h. Managing Programmatic Access
+
+3 days
+-->S3 - Simple Storage Services
+a. Standard Storage
+b. Standard - Infrequently Accessed
+c. Reduced Redundancy
+d. Encrypting Objects
+e. Uploading deleting & downloading objects
+f. Versioning
+g. Life cycle management
+h. S3 Logging
+i. Static Website Hosting
+j. Cross-region Replication
+k. Configuring Events
+l. Glacier
+m. s3 cli
+
+1 day
+-->KMS (Key Management Service)
+a. What is KMS
+b. Creating KMS key
+c. Managing KMS admin and usage permissions 
+
+3 days
+-->Databases
+a.RDS 
+b.DynamoDB
+c.Redshift
+d.elasticache
+
+2 days
+-->Route 53 (DNS & Domain Registration)
+a. DNS Flow
+b. Fundamentals of Route53
+c. Registering A Domain
+d. Creating Hosted Zones
+e. Record Sets (A, AAAA, CNAME)
+f. Routing policy (Simple weighted failover geolocation & latency based)
+
+3 days
+-->Monitoring CloudWatch
+a. Trusted Adviser & Cloud Trail
+b. Basic & Detailed Monitoring
+c. Creating custom dashboards 
+d. Setting up alerts
+e. Configuring events & rules
+f. Scheduling tasks
+
+2 days
+-->Simple Services
+a. Simple Queue Service (SQS)
+b. Simple Email Service (SES)
+c. Simple Notification Service (SNS)
+
+7 days
+-->Cost Explorer
+-->Boto3 & Lambda
+--> CloudFormation or Terraform
+
+If we have time we will go through some advaced services
+Glue 
+Athena
+EMR
+Stepfunctions
+Datapipeline
+Batch
+ECR
+
+
+
+
+
+
+
