@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 iam charitha 
-
+ansible is an app
 
 =======
 fetching code from repo project-1
