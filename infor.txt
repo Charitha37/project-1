@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 iam charitha 
 
 
+=======
+fetching code from repo project-1
+>>>>>>> refs/remotes/origin/main
