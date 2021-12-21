@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 iam charitha 
 
-
-=======
+docker is an app
 fetching code from repo project-1
->>>>>>> refs/remotes/origin/main
