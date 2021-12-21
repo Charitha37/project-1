@@ -1,4 +1,10 @@
 iam charitha 
+<<<<<<< HEAD
 
 docker is an app
+=======
+ansible is an app
+
+=======
+>>>>>>> d9a79c7aa25d8a65ae8e84122e37fd37477d08a6
 fetching code from repo project-1
